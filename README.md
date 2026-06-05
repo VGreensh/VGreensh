@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hai Linh 
+# Hi there! 👋 I'm Le Hai Linh 
 
 ### 👨‍💻 Software Engineer | System Integration Enthusiast 
 
