@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hai Linh 
 
-<!--
-**VGreensh/VGreensh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Engineer | System Integration Enthusiast 
 
-Here are some ideas to get you started:
+I am a software engineering enthusiast with a strong focus on system integration, backend logic, and solving real-world operational challenges. I thrive on building robust, scalable systems rather than front-end or game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am pursuing my Master's degree at Tokyo Polytechnic University, where my academic research intersects with complex system optimization.
+
+### 🎓 Current Academic Focus
+* **Research Area:** Quantum Computing & Logistics Optimization.
+* **Core Project:** Applying the Quantum Knapsack problem and QUBO (Quadratic Unconstrained Binary Optimization) models to solve complex warehouse allocation and logistics operations.
+* **Goal:** Translating advanced mathematical models into practical software solutions that optimize supply chain workflows.
+
+### 🛠️ Skills & Tech Stack
+* **Domains:** Software Engineering, System Integration, Agent-Based Modeling (ABM).
+* **Languages & Tools:**Java, C, NetLogo.
+* **Foundational Knowledge (Undergraduate Basics):** 
+  * Data Structures & Algorithms, Object-Oriented Programming (OOP).
+  * Databases, Computer Networks, Information Security.
+  * Web Programming, Image Processing, Digital Audio.
+* **Soft Skills:** Problem-solving, cross-cultural teamwork, analytical thinking.
+
+### 🌍 Languages
+I am a multilingual communicator, which allows me to collaborate effectively in diverse, international engineering teams:
+* 🇻🇳 **Vietnamese:** Native
+* 🇬🇧 **English:** Professional Working Proficiency (TOEIC 700)
+* 🇯🇵 **Japanese:** Business Proficiency (JLPT N2)
+
+### 🚀 Featured Projects
+* [**Fire Evacuation Simulation**](https://github.com/VGreensh/fire-evacuation-simulation): An agent-based model simulating complex evacuation logic and family rescue mechanics during emergencies.
+
+---
+📫 **How to reach me:** [007.greensh@gmail.com]
